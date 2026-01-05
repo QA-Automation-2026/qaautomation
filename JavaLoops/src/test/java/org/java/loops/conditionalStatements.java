@@ -1,4 +1,4 @@
-package org.kshema.loops;
+package org.java.loops;
 
 public class conditionalStatements
 {
