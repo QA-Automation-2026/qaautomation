@@ -1,4 +1,4 @@
-package com.kshema.operators;
+package com.java.operators;
 
 public class Basicdemo {
     public static void main(String[] args) {
