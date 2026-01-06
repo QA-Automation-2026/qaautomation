@@ -60,17 +60,13 @@ public class Arithmetic {
         System.out.println("verifying a is equal to b is " + (a>=b));
         System.out.println("verifying a is equal to b is " + (a==b));
         System.out.println("verifying a and  b  " + ((a>b)||(a<b)));//logical operators multible conditinons if true or false
-        System.out.println("verifying a and  b " + ((a>c)&& (c<=b)))&&(a<c=b)));
+        System.out.println("verifying a and  b " + (((a>c)&& (c<=b))&&(a<c)));
         System.out.println("verifying a and  b  " + ((a<c)||(a<=b)));
 
         System.out.println((a>=b) ? a:b);  //Terinary operators first condition next quiestion mark then result1 if true and result2 if false
 
 //check values
-
     }
-
-
-
     }
 
 

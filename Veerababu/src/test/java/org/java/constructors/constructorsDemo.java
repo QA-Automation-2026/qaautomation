@@ -38,7 +38,6 @@ public class constructorsDemo {
     }
     public constructorsDemo(int a, int b)
     {
-
       System.out.println("Inside paramerised default constrcutor :"+a);
     }
     public constructorsDemo(String a, int b)
