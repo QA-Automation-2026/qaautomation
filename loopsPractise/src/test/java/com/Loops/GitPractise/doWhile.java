@@ -6,6 +6,7 @@ public class doWhile {
 
         do {
             System.out.println(i);
-        } while (i < 1);
+            i--;
+        } while (i == 9);
     }
 }
