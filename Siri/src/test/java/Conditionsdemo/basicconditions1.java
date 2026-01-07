@@ -13,7 +13,6 @@ public class basicconditions1 {
 	46.	Write a calculator program using if-else.
 	47.	Check whether a triangle is valid.
 	48.	Find profit or loss.
-
 */
 
     public static void main(String[] args) {
