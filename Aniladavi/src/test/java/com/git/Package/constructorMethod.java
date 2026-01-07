@@ -9,10 +9,9 @@ public class constructorMethod {
         String s1 = "Anil";
         String s2 = "Sagar";
 
-        constructorMethod np = new constructorMethod ();
-        constructorMethod add = new constructorMethod (a,b);
+//        constructorMethod add = new constructorMethod (a,b);
         constructorMethod strcon = new constructorMethod (s1,s2);
-        constructorMethod strle = new constructorMethod (s1,a);
+       // constructorMethod strle = new constructorMethod (s1,a);
 
     }
 
@@ -20,16 +19,20 @@ public class constructorMethod {
     {
         System.out.println("No parameters");
     }
+
     public constructorMethod (int one, int two)
     {
-        System.out.println("added " + (one+two));
+        this("gfhghg",2);
+        System.out.println("Two integers added " + (one+two));
     }
     public constructorMethod (String one, String two)
     {
+        this(1,5);
         System.out.println("concat " + (one + "+" +two));
     }
     public constructorMethod (String one, int two)
     {
-        System.out.println("concat " + (one + "+" +two));
+        this();
+        System.out.println("constructor method " + (one + "+" +two));
     }
 }
