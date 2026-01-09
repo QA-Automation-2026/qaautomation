@@ -32,9 +32,11 @@ public class nestedifSwith1 {
         } else {
             System.out.println("suri is greater then vasu");
         }
-        int eligible = 18;//greter
-        int noteligible = 18;//less than
-        if ((eligible <= noteligible)) {
+        int eligible = 18;//grater
+        int noteligible = 16;//less than
+        int age=18;
+
+        if ((eligible ==age)) {
             System.out.println("eligible is correct answer ");
 
         }
@@ -44,7 +46,7 @@ public class nestedifSwith1 {
             System.out.println("d value is false");
 
         } else {
-            System.out.println("first value d is false");
+            System.out.println("g value is correct answer");
         }
     }
 }

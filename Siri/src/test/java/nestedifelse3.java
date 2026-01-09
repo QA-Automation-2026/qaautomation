@@ -13,7 +13,7 @@ public class nestedifelse3 {  // based on mutible conditions
 
             if (economy > sale) {
                 System.out.println("passenger can sit economy is correct answer");
-            } if (economy <= sale) {
+            }  if (economy <= sale) {
                 System.out.println("passenger can buy ticket in sale ");
             } else if (sale > economy) {
 
@@ -21,6 +21,7 @@ public class nestedifelse3 {  // based on mutible conditions
             } else {
              System.out.println("passenger cancelled tickets ");
             }
+
         }
     }
 }
