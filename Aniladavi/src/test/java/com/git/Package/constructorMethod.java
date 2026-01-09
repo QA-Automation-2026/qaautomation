@@ -10,6 +10,7 @@ public class constructorMethod {
         String s2 = "Sagar";
         String s3 = "Vidya";
 
+<<<<<<< HEAD
        /* constructorMethod np = new constructorMethod ();*/
         constructorMethod add = new constructorMethod (a,b);
        /* constructorMethod strcon = new constructorMethod (s1,s2);
@@ -17,12 +18,19 @@ public class constructorMethod {
         constructorMethod strlen1 = new constructorMethod ("test1");
         constructorMethod strlen2 = new constructorMethod ("test2");
         constructorMethod strlen3 = new constructorMethod (s1,s2,s3);*/
+=======
+//        constructorMethod add = new constructorMethod (a,b);
+        constructorMethod strcon = new constructorMethod (s1,s2);
+       // constructorMethod strle = new constructorMethod (s1,a);
+
+>>>>>>> main
     }
 
     public constructorMethod ()
     {
         System.out.println("No parameters");
     }
+<<<<<<< HEAD
     public constructorMethod (int text1, int text2)
     {
         System.out.println("added " + (text1+text2));
@@ -31,14 +39,23 @@ public class constructorMethod {
                 System.out.println(("For loop" + i));
             }
         }
+=======
+
+    public constructorMethod (int one, int two)
+    {
+        this("gfhghg",2);
+        System.out.println("Two integers added " + (one+two));
+>>>>>>> main
     }
     public constructorMethod (String one, String two)
     {
+        this(1,5);
         System.out.println("concat " + (one + "+" +two));
     }
     public constructorMethod (String one, int two)
     {
-        System.out.println("concat " + (one + "+" +two));
+        this();
+        System.out.println("constructor method " + (one + "+" +two));
     }
     public constructorMethod (String one)
     {
