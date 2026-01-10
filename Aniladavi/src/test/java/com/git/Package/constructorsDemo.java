@@ -2,10 +2,7 @@ package com.git.Package;
 
 public class constructorsDemo {
 
-
-    public void firstMethod()
-    {
-        System.out.println("First Method Declaration");
+    public static void main(String[] args) {
+        System.out.println("test");
     }
-
 }
