@@ -1,5 +1,7 @@
 package org.java.constructors;
 
+import org.testng.annotations.Test;
+
 public class constructorsDemo {
 
     /*
@@ -56,6 +58,7 @@ public class constructorsDemo {
     {
         System.out.println("Inside paramerised third constrcutor :"+(a-b-c-d));
     }
+    @Test
     public void hello()
     {
 
