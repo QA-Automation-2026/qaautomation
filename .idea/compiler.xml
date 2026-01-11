@@ -9,8 +9,9 @@
         <module name="loopsPractise" />
         <module name="Veerababu" />
         <module name="Aniladavi" />
-        <module name="Siri" />
+        <module name="Dixt" />
         <module name="myPractice" />
+        <module name="Siri" />
         <module name="JavaLoops" />
       </profile>
     </annotationProcessing>
