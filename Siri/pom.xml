@@ -8,11 +8,6 @@
     <artifactId>Siri</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-<<<<<<< HEAD
-    
-=======
->>>>>>> eb83cbbd905c0efafc4e3803fd7088b382a2d49b
-
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
         <maven.compiler.target>21</maven.compiler.target>
