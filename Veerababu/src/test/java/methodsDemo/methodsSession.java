@@ -16,6 +16,7 @@ public class methodsSession
         obj.thirdMethod();
         obj.fourthMethod();
         methodsSession.staticMethod();
+
     }
 
     /*
