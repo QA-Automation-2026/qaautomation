@@ -1,6 +1,8 @@
 package methodsDemo;
 
-public class secondMethodDemo extends  methodsSession{
+import static methodsDemo.methodsSession.staticMethod;
+
+public class secondMethodDemo {
 
     public static void main(String[] args) {
         methodsSession obj = new methodsSession();
@@ -8,5 +10,7 @@ public class secondMethodDemo extends  methodsSession{
         obj.secondMethod();
         obj.thirdMethod();
         obj.fourthMethod();
+        staticMethod();
     }
+
 }
