@@ -16,8 +16,8 @@ public class switchDemo {
     *
     * */
     public static void main(String[] args) {
-        switchDemo obj = new switchDemo();
-    }
+        switchDemo obj = new switchDemo();}
+
 
     public switchDemo()
     {

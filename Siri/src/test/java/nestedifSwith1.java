@@ -34,9 +34,12 @@ public class nestedifSwith1 {
         }
         int eligible = 18;//grater
         int noteligible = 16;//less than
-        int age=18;
+        int age = 18;
+        int sides = 5;
 
-        if ((eligible ==age)) {
+
+
+        if ((eligible == age)) {
             System.out.println("eligible is correct answer ");
 
         }
@@ -47,6 +50,13 @@ public class nestedifSwith1 {
 
         } else {
             System.out.println("g value is correct answer");
+        }
+        if (sides == 3) {
+
+            System.out.println("triangel");
+        } else {
+            System.out.println("not a triangel");
+
         }
     }
 }
