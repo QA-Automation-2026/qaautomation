@@ -8,7 +8,6 @@ public class callingMethods {
         System.out.println();
         md1.fortest(35, 20);
         md1.mul(2, 10);
-
     }
 
 }
