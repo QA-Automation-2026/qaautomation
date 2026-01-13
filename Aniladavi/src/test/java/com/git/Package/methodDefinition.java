@@ -31,6 +31,22 @@ public class methodDefinition {
             System.out.println(a*i);
         }
     }
+    public static void casemethod (int a)
+    {
+        System.out.println("switch method");
+        switch (a)
+        {
+            case 10:
+                System.out.println("ten");
+                break;
+
+            case 20:
+                System.out.println("Twenty");
+                break;
+            default:
+                System.out.println("default");
+        }
+    }
 
 
 }
