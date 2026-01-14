@@ -39,13 +39,16 @@ public class methodDefinition {
             case 10:
                 System.out.println("ten");
                 break;
-
             case 20:
                 System.out.println("Twenty");
                 break;
             default:
                 System.out.println("default");
         }
+    }
+    public methodDefinition ()
+    {
+        System.out.println("this is constructor");
     }
 
 
