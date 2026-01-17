@@ -11,5 +11,4 @@ public class callingMethods {
         methodDefinition.mul(2, 10);
         methodDefinition.casemethod (a);
     }
-
 }
