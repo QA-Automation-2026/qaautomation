@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Veerababu" />
         <module name="Aniladavi" />
+        <module name="Dixit" />
         <module name="Siri" />
         <module name="myPractice" />
       </profile>
