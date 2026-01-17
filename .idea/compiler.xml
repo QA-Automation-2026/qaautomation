@@ -6,12 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="loopsPractise" />
         <module name="Veerababu" />
         <module name="Aniladavi" />
         <module name="myPractice" />
         <module name="Siri" />
-        <module name="JavaLoops" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>

@@ -8,7 +8,5 @@ public class mvntestnDemo {
     public void firstMethod()
     {
         System.out.println("First method maven testng");
-
     }
-
 }

@@ -7,7 +7,7 @@ public class constructorsDemo {
     /*
     * implict constructors -
     * explicit constructors - parametrerised and non parameterised
-    * constrcutors scope is within the class onlyyy
+    * constrcutors scope is within the class only
     *
     * constructors name always same as classname
     * we can create multiple constroctors
@@ -61,6 +61,6 @@ public class constructorsDemo {
     @Test
     public void hello()
     {
-
+        
     }
 }
