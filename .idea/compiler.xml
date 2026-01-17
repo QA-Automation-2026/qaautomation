@@ -9,11 +9,13 @@
         <module name="loopsPractise" />
         <module name="Veerababu" />
         <module name="Aniladavi" />
-        <module name="Dixt" />
         <module name="myPractice" />
         <module name="Siri" />
         <module name="JavaLoops" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Dixt" target="21" />
+    </bytecodeTargetLevel>
   </component>
 </project>
