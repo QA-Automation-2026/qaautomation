@@ -5,6 +5,7 @@ public class fuctionsUsingLoops {
     static int student2 = 75;
     static int student3 = 85;
 
+
     public static void main(String[] arg){
        fuctionsUsingLoops obj = new fuctionsUsingLoops();
        obj.studentMarks();
