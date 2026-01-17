@@ -4,7 +4,6 @@ import methodsDemo.methodsSession;
 
 public class dixitDoubut {
 
-
     /*
     * Two types of methods
     *
