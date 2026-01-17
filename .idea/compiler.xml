@@ -7,14 +7,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Veerababu" />
-        <module name="Aniladavi" />
         <module name="Dixit" />
         <module name="Siri" />
         <module name="myPractice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Aniladavi" target="21" />
       <module name="Dixt" target="21" />
+      <module name="DreamChasers" target="25" />
       <module name="JavaLoops" target="21" />
       <module name="loopsPractise" target="1.8" />
       <module name="myPractice" target="21" />

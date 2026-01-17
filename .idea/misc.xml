@@ -12,10 +12,13 @@
         <option value="$PROJECT_DIR$/Aniladavi/pom.xml" />
         <option value="$PROJECT_DIR$/Dixt/pom.xml" />
         <option value="$PROJECT_DIR$/Dixit/pom.xml" />
+        <option value="$PROJECT_DIR$/DreamChasers/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/Aniladavi/pom.xml" />
+        <option value="$PROJECT_DIR$/DreamChasers/pom.xml" />
         <option value="$PROJECT_DIR$/JavaLoops/pom.xml" />
         <option value="$PROJECT_DIR$/loopsPractise/pom.xml" />
         <option value="$PROJECT_DIR$/myPractice/pom.xml" />
