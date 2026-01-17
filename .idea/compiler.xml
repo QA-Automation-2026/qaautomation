@@ -8,14 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Veerababu" />
         <module name="Aniladavi" />
-        <module name="Dixt" />
+        <module name="myPractice" />
         <module name="Siri" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaLoops" target="21" />
-      <module name="loopsPractise" target="1.8" />
-      <module name="myPractice" target="21" />
+      <module name="Dixt" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>
