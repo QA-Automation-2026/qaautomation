@@ -20,6 +20,7 @@ public class Practice3 {
 
         System.out.println(m);
         System.out.println(n+Practice3.o);
+        //
 
 
     }
