@@ -1,12 +1,12 @@
 package org.java.constructors;
 
-import org.testng.annotations.Test;
+//import org.testng.annotations.Test;
 
 public class mvntestnDemo {
 
-    @Test
+   /* @Test
     public void firstMethod()
     {
         System.out.println("First method maven testng");
-    }
+    }*/
 }
