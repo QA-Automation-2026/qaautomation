@@ -1,12 +1,9 @@
 package Operators2;
 
 public class arithmeticpractice {
-    int a = 10;
-    int b=20;
-    int c =30;
-
 
     public static void main(String[] args) {
+<<<<<<< HEAD
         int a = 10;
         int b=20;
         int c =30;
@@ -18,6 +15,8 @@ public class arithmeticpractice {
         System.out.println("multiplied by two numbers"+(b*c));
         System.out.println("addition of three numbers"+(a+b+c));
         System.out.println("celsiustofahrenheit of two numbers"+(d*9/b));
-    }
+=======
 
+>>>>>>> 75a58e70730d76bc072264c813549b0b53f7b6d4
+    }
 }
