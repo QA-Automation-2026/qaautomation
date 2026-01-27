@@ -14,5 +14,6 @@ public class arithmeticpractice {
         System.out.println("multiplied by two numbers"+(b*c));
         System.out.println("addition of three numbers"+(a+b+c));
         System.out.println("celsiustofahrenheit of two numbers"+(d*9/b));
+
     }
 }
