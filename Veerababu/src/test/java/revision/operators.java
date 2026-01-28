@@ -39,7 +39,42 @@ public class operators {
 
         System.out.println((x>=y));
 
+        // Unary Operators
+        //Pre incremental and post incremental
+//        ++l; - Pre incremental
+//        l++;- Post incremental
+        int l = 1;
+        int j = 10;
+
+        System.out.println("Pre Incremental operator "+ ++l);
+        System.out.println("Pre incremental value is "+l);
+
+        System.out.println("Post Incremental operator "+ j++);  // 10
+        System.out.println("Post incremental value is "+j); // 11
+
+//        --l = Pre decremental
+//         l-- = post decremental
+
+        System.out.println("pre decrement operator "+ --l);
+        System.out.println("Post decremental operator"+ j--); //  11
+        System.out.println("post decremental value is "+ j);
+
+        boolean statement = true;
+        System.out.println(!statement);
 
 
+        // Assignment Operators
+
+        int m = 10;
+        m = m+5;
+        m += 5;
+
+        // Terinary operator
+        //condition ? true : false
+        int i = 10;
+        j = 15;
+        int c1 = (i<j)?i:j;
+        System.out.println(c1);
+        
     }
 }
