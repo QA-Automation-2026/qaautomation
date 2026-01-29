@@ -15,5 +15,4 @@ public class assaignmentOperators {
         System.out.println("value of *=" + a);
         System.out.println("value of %=" + b);
     }
-
 }
