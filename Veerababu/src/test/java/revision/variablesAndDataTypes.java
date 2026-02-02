@@ -21,7 +21,6 @@ public class variablesAndDataTypes
      *
     *
     * */
-
     /*
     * Two types of data types, Primitive data types, Non primitive data types
     * Primitive Data types

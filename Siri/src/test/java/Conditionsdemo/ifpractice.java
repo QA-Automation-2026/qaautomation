@@ -14,34 +14,43 @@ public class ifpractice {
          int gradeA =50;
          int  gradeB =60;
         ifpractice home = new ifpractice();
+
+        // first block
         if (home.a > home.b) {
             System.out.println("a is not grater than b");
         } else
-
             System.out.println("b is grater than a");
-        {
-            if (home.c > home.d) {
-                System.out.println("ci is not grater than b");
 
-            } else
-                System.out.println("d is greater than c");
-            {
-                if (home.age>home.years ){
-                    System.out.println("his age is not 18");
-                }else
-                    System.out.println("his age is 20 old");
+        //second block
+        if (home.c > home.d) {
+            System.out.println("ci is not grater than b");
 
-            }
-            if(gradeA>gradeB){
-                System.out.println("gradeA marks less then gradeB");
+        } else
+            System.out.println("d is greater than c");
+
+
+        // third block
+            if (home.age>home.years ){
+                System.out.println("his age is not 18");
             }else
-                System.out.println("gradeB marks grater than gradeA");
+                System.out.println("his age is 20 old");
 
+        // fourth block
+        if(gradeA>gradeB){
+            System.out.println("gradeA marks less then gradeB");
+        }else {
+            System.out.println("gradeB marks grater than gradeA");
         }
-           if (ifpractice.vegbiriyani<ifpractice.chikenbiriyani){
-               System.out.println("chicken biriyani is not healthy");
-           }else
-               System.out.println("veg biriyani is tasty");
+
+
+    // fifth block
+       if (ifpractice.vegbiriyani<ifpractice.chikenbiriyani){
+           System.out.println("chicken biriyani is not healthy");
+       }else
+           System.out.println("veg biriyani is tasty");
+
+
+
     }
 }
 
