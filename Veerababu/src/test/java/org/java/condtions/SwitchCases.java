@@ -16,5 +16,6 @@ public class SwitchCases {
             case 10 :
                 System.out.println("final case");
         }
+
     }
 }
