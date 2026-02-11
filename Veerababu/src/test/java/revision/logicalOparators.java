@@ -14,5 +14,9 @@ public class logicalOparators {
 
 
     }
+    public static String returnString(String value){
+        System.out.println("Print value of string "+value);
+        return "method";
+    }
 }
 

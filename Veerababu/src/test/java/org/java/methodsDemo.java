@@ -34,7 +34,7 @@ public class methodsDemo {
     {
         System.out.println("Third method creation");
     }
-    public static void methodsDemo3()
+    static void methodsDemo3()
     {
         System.out.println("Fourth method creation");
     }
