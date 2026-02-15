@@ -1,6 +1,7 @@
 package revision;
 
-public class constructorsDemo {
+public class
+constructorsDemo {
 
     /*
     * Constrcutors are always starts with classname
