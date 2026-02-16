@@ -15,20 +15,15 @@ public class StringsDemo {
         String name = "Demo";
         System.out.println(name +" " + name.hashCode());
         name = name + "Demo";
-
         System.out.println(name +" " + name.hashCode());
-
         // String builder and String buffer - mutable
         StringBuffer b = new StringBuffer();
-
     }
-
     public int add(String x, int y){
 
         return 10;
     }
     public String add( String value){
-
         return "Veerababu";
     }
 }
