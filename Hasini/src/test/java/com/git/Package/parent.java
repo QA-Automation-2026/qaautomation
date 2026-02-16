@@ -5,7 +5,7 @@ public class parent {
     public void test()
     {
 
-        System.out.println("parent class");
+        System.out.println("parent class override");
     }
     public void test4()
     {
