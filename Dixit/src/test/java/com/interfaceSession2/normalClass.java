@@ -1,6 +1,6 @@
 package com.interfaceSession2;
 
-public class normalClass extends  interfaceToAbstract {
+public class normalClass extends  interfaceToAbstract  {
 
     public void method2() {
 

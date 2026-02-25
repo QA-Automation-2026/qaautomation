@@ -25,4 +25,11 @@ public interface interfaceDemoSession {
     * Supports multiple inheritance
     *
     * */
+
+    static void demo(){
+
+    }
+    default int add(){
+        return 10;
+    }
 }
