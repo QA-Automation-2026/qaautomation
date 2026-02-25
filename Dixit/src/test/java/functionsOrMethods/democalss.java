@@ -1,11 +1,10 @@
 package functionsOrMethods;
 
-public class functionsOrMethods {
-
-
+public class democalss
+{
     public static void main(String[] arg)
     {
-        functionsOrMethods k = new functionsOrMethods();
+        democalss k = new democalss();
         k.function2();
         int highestMarks = k.function1(25, 55);
         System.out.println(highestMarks);
