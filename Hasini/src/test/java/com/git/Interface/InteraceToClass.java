@@ -1,6 +1,6 @@
 package com.git.Interface;
 
-public class InteraceToClass implements InterfacePractis{
+public class InteraceToClass implements InterfacePractise{
 
 
     @Override
