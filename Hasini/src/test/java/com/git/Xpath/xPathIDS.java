@@ -47,5 +47,27 @@ https://onlinesbi.sbi.bank.in/
 (//a[@aria-label='Continue to Login'])[1]
 
 
+ https://smartcare.sbilife.co.in/SmartCare/pre/login
+
+
+//input[@placeholder='Mobile Number/Email Id']
+//input[@id='policyNumber']
+//img[@id='captchaImage']
+//a[@class='btn-default arrow ChangeDATE']
+//img[@alt='RVoice captcha']
+
+
+------------------
+
+same level down following::
+same level up preceding::
+
+child
+grand child
+
+ancestors
     * */
+
+
+
 }
