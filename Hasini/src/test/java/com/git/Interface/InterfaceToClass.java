@@ -14,5 +14,8 @@ public class InterfaceToClass implements InterfaceTest1{
         InterfaceToClass IC = new InterfaceToClass();
         int d =IC.test1(20,30);
         System.out.println(d);
+
+      /*  int e = InterfaceTest1.test2();
+        System.out.println(e);*/
     }
 }

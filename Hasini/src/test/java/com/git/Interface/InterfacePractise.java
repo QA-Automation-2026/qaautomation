@@ -19,4 +19,5 @@ public interface InterfacePractise {
 * abstract class implements an interface - abstract methods may/may not be defined
 * class extends an abstract class which is implementing an interface - then all remaining abstract methods should be defined
 *
+*
 * * */

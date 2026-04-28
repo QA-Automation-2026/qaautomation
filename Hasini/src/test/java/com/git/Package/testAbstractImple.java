@@ -11,7 +11,9 @@ public class testAbstractImple extends testAbstract{
         testingCon1();
     }
     @Override
-    int testing() {
+    int testing()
+    {
+        System.out.println("abstract method called defined in extend class");
         return 10;
     }
 
